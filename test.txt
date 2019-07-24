@@ -23,7 +23,7 @@ END
 # byte 6: SD = 1, HD = 2
 # byte 7: SD = 1, HD = 2
 # byte 8: SD = 1, HD = 2
-e it all alone
+
 # byte 9:  follow video = 1, external word FS = 2, external word 1:1 = 3, LTC = 4
 # byte 10: 44.1Khz = 1, 48Khz = 2
 # byte 11: x1 = 1 , x2 = 1
