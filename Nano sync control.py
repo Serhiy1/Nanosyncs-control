@@ -4,9 +4,6 @@ import rtmidi
 from bidict import bidict
 from collections import namedtuple
 
-logger = logging.getLogger('d3_test_suite')
-
-
 class NanoSync:
     def __init__(self):
 
