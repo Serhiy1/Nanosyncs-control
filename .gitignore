@@ -1,7 +1,6 @@
-\venv
-\.git
-\.idea
-
+.idea/*
+venv/*
 
 *.xml
 *.json
+
