@@ -1,5 +1,4 @@
 import time
-import logging
 import rtmidi
 from bidict import bidict
 from collections import namedtuple
